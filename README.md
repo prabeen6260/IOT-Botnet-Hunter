@@ -3,7 +3,7 @@
 This project is a sophisticated Intrusion Detection System (IDS) that uses Machine Learning to detect malicious network traffic from compromised IoT devices (like webcams and doorbells).
 It addresses the real-world threat posed by botnets such as Mirai and Bashlite, which leverage insecure IoT devices to launch large-scale Distributed Denial of Service (DDoS) attacks.
 
-🚀 Key Achievements
+Key Achievements:
 
 Universal Model: A Random Forest Classifier trained on heterogeneous data (traffic from multiple distinct device types) to create a robust model that avoids false positives across different hardware architectures.
 
